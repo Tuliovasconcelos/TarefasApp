@@ -1,6 +1,6 @@
-# Controle de Estoque - Petus
+# Controle de Tarefas
 
-Sistema desenvolvido com intuito de aplicar a gestão de estoque.
+Sistema desenvolvido com intuito de aplicar os conhecimentos em React.
 
 ## Preview
 
